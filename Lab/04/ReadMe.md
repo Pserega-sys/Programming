@@ -47,7 +47,7 @@
 
 ## Выполнение работы 
 
-![](master/lab/04/screenshot/1.png)
+![](Programming/lab/04/screenshot/1.png)
 
 1. Как изменить цветовую схему (оформление) среды?
 

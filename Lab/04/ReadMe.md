@@ -47,7 +47,7 @@
 
 ## Выполнение работы 
 
-![](Programming/lab/04/screenshot/1.png)
+![](https://github.com/Pserega-sys/Programming/blob/master/Lab/04/screenshot/1.PNG)
 
 1. Как изменить цветовую схему (оформление) среды?
 

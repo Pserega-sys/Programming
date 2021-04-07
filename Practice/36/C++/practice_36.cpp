@@ -20,11 +20,10 @@ class Point {
         Cartesian, Polar
     };
 
-public:
     double a1 = 0, a2 = 0, x, y;
+public:
     constexpr static const double skip = 100;
     Point() : x(0), y(0) {}
-
     Point(double a1, double a2, enum Coordinata coord_system) {
         switch (coord_system) {
         case Cartesian:

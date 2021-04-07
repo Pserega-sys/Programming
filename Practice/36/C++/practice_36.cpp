@@ -15,7 +15,7 @@ const auto PI = 3.141592653589793;
 
 class Point {
 
-    enum Coordinata
+    enum system_coord
     {
         Cartesian, Polar
     };
@@ -24,7 +24,7 @@ class Point {
 public:
     constexpr static const double skip = 100;
     Point() : x(0), y(0) {}
-    Point(double a1, double a2, enum Coordinata coord_system) {
+    Point(double a1, double a2, enum system_coord coord_system) {
         switch (coord_system) {
         case Cartesian:
             x = a1;

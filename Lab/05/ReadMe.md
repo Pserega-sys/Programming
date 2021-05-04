@@ -50,7 +50,7 @@
 
 Я подготовил графический интерфейс программы в соотвествтии с методическими рекомендациями.
 
-![](https://github.com/Pserega-sys/Programming/blob/master/Lab/05/screenshot/interface.PNG)
+![](https://github.com/Pserega-sys/Programming/blob/master/Lab/05/pictures/interface.PNG)
 
 Рис. Графический интерфейс
 
@@ -64,7 +64,7 @@ Rick Astley хотел поделится новыми трейлером Grand 
 
 **Картинка с зашифрованными текстом?**
 
-[](https://github.com/Pserega-sys/Programming/blob/master/Lab/05/screenshot/hoi.PNG)
+[](https://github.com/Pserega-sys/Programming/blob/master/Lab/05/pictures/hoi.PNG)
 
 ## **Вывод по работе**
 

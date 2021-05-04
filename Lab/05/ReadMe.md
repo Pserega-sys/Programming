@@ -62,9 +62,9 @@
 
 Rick Astley хотел поделится новыми трейлером Grand Theft Auto VI.
 
-**Картинка с зашифрованными текстом?**
+**Картинка с зашифрованными текстом**
 
-[](https://github.com/Pserega-sys/Programming/blob/master/Lab/05/pictures/hoi.PNG)
+![](https://github.com/Pserega-sys/Programming/blob/master/Lab/05/pictures/hoi.PNG)
 
 ## **Вывод по работе**
 

@@ -1,2 +1,0 @@
-C:\dev\towerd\x64\Debug\towerd.exe
-C:\dev\towerd\x64\Debug\towerd.pdb

@@ -1,0 +1,11 @@
+﻿  main.cpp
+e:\Programming\Курсовая работа\Tetris\main.cpp(88,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+e:\Programming\Курсовая работа\Tetris\main.cpp(109,30): warning C4305: инициализация: усечение из "double" в "float"
+e:\Programming\Курсовая работа\Tetris\main.cpp(137,59): warning C4305: =: усечение из "double" в "float"
+e:\Programming\Курсовая работа\Tetris\main.cpp(206,34): warning C4305: =: усечение из "double" в "float"
+e:\Programming\Курсовая работа\Tetris\main.cpp(215,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+e:\Programming\Курсовая работа\Tetris\main.cpp(215,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+e:\Programming\Курсовая работа\Tetris\main.cpp(225,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+e:\Programming\Курсовая работа\Tetris\main.cpp(225,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+e:\Programming\Курсовая работа\Tetris\main.cpp(248,14): warning C4551: в вызове функции отсутствует список аргументов
+e:\Programming\Курсовая работа\Tetris\main.cpp(255): warning C4715: Gamerun: значение возвращается не при всех путях выполнения
